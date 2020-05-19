@@ -1,0 +1,8 @@
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\bin\Debug\netstandard2.1\SamuraiApp.Domain.deps.json
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\bin\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\bin\Debug\netstandard2.1\SamuraiApp.Domain.pdb
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Users\Utsavkumar Lal\source\repos\EntityFrameworkCoreTutorial\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.pdb
